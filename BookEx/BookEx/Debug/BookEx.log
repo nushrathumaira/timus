@@ -1,0 +1,6 @@
+﻿  1083.cpp
+c:\users\nushrat humaira\documents\visual studio 2015\projects\bookex\bookex\1083.cpp(8): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\nushrat humaira\documents\visual studio 2015\projects\bookex\bookex\1083.cpp(8): note: placeholders and their parameters expect 3 variadic arguments, but 2 were provided
+  c:\users\nushrat humaira\documents\visual studio 2015\projects\bookex\bookex\1083.cpp(8): note: the missing variadic argument 3 is required by format string '%9s'
+  c:\users\nushrat humaira\documents\visual studio 2015\projects\bookex\bookex\1083.cpp(8): note: this argument is used as a buffer size
+LINK : fatal error LNK1168: cannot open C:\Users\nushrat humaira\Documents\Visual Studio 2015\Projects\BookEx\Debug\BookEx.exe for writing
